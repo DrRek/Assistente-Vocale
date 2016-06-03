@@ -1,0 +1,13 @@
+queste le ho installate con pip:
+
+	altgraph==0.12
+	macholib==1.7
+	modulegraph==0.12.1
+	py2app==0.9
+	PyAudio==0.2.9
+	pyobjc==3.0.4
+	pyttsx==1.1
+	SpeechRecognition==3.3.0
+	pocketsphinx==0.0.9
+
+
